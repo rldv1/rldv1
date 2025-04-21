@@ -1,9 +1,9 @@
 # Hello there.
 
-Reverse engineering is my thing - mostly mobile stuff, like obfuscation, anti-debug, RASP, and weird runtime tricks. 
-Digging through protections, breaking things for fun (and learning ofc!)
-**Currently looking for a job in this field.**
-Im not very social, just like to work quietly and dig deep.
+Reverse engineering is my thing - mostly mobile stuff, like obfuscation, anti-debug, RASP, and weird runtime tricks.  
+Digging through protections, breaking things for fun (and learning ofc!)  
+**Currently looking for a job in this field.**  
+Im not very social, just like to work quietly and dig deep.  
 
 ---
 
